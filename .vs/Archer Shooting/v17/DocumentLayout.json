@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectUnity\\Archer Shooting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|D:\\ProjectUnity\\Archer Shooting\\assets\\scritps\\audiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|solutionrelative:assets\\scritps\\audiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|D:\\ProjectUnity\\Archer Shooting\\assets\\scritps\\gamemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|solutionrelative:assets\\scritps\\gamemanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|D:\\ProjectUnity\\Archer Shooting\\assets\\scritps\\guimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|solutionrelative:assets\\scritps\\guimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|d:\\projectunity\\archer shooting\\assets\\scritps\\btnzoomin_out.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|solutionrelative:assets\\scritps\\btnzoomin_out.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|D:\\ProjectUnity\\Archer Shooting\\assets\\scritps\\gameoverdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|solutionrelative:assets\\scritps\\gameoverdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|D:\\ProjectUnity\\Archer Shooting\\assets\\scritps\\arrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|solutionrelative:assets\\scritps\\arrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|D:\\ProjectUnity\\Archer Shooting\\assets\\scritps\\limitedarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|solutionrelative:assets\\scritps\\limitedarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|D:\\ProjectUnity\\Archer Shooting\\assets\\scritps\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|solutionrelative:assets\\scritps\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|D:\\ProjectUnity\\Archer Shooting\\assets\\scritps\\targetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|solutionrelative:assets\\scritps\\targetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|D:\\ProjectUnity\\Archer Shooting\\assets\\scritps\\bowline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740313F2-6845-ABCA-56DE-ADF2D650C93E}|Assembly-CSharp.csproj|solutionrelative:assets\\scritps\\bowline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BtnZoomIn_Out.cs",
+              "DocumentMoniker": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\BtnZoomIn_Out.cs",
+              "RelativeDocumentMoniker": "Assets\\Scritps\\BtnZoomIn_Out.cs",
+              "ToolTip": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\BtnZoomIn_Out.cs",
+              "RelativeToolTip": "Assets\\Scritps\\BtnZoomIn_Out.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T12:44:16.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AudioController.cs",
+              "DocumentMoniker": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\AudioController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scritps\\AudioController.cs",
+              "ToolTip": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\AudioController.cs",
+              "RelativeToolTip": "Assets\\Scritps\\AudioController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwGwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T11:50:13.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManage.cs",
+              "DocumentMoniker": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\GameManage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scritps\\GameManage.cs",
+              "ToolTip": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\GameManage.cs",
+              "RelativeToolTip": "Assets\\Scritps\\GameManage.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:30:23.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LimitedArea.cs",
+              "DocumentMoniker": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\LimitedArea.cs",
+              "RelativeDocumentMoniker": "Assets\\Scritps\\LimitedArea.cs",
+              "ToolTip": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\LimitedArea.cs",
+              "RelativeToolTip": "Assets\\Scritps\\LimitedArea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:53:35.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameOverDialog.cs",
+              "DocumentMoniker": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\GameOverDialog.cs",
+              "RelativeDocumentMoniker": "Assets\\Scritps\\GameOverDialog.cs",
+              "ToolTip": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\GameOverDialog.cs",
+              "RelativeToolTip": "Assets\\Scritps\\GameOverDialog.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAawBkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:21:14.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuiManager.cs",
+              "DocumentMoniker": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\GuiManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scritps\\GuiManager.cs",
+              "ToolTip": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\GuiManager.cs",
+              "RelativeToolTip": "Assets\\Scritps\\GuiManager.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwCcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T09:48:46.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BowLine.cs",
+              "DocumentMoniker": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\BowLine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scritps\\BowLine.cs",
+              "ToolTip": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\BowLine.cs",
+              "RelativeToolTip": "Assets\\Scritps\\BowLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T07:26:40.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArrowController.cs",
+              "DocumentMoniker": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\ArrowController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scritps\\ArrowController.cs",
+              "ToolTip": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\ArrowController.cs",
+              "RelativeToolTip": "Assets\\Scritps\\ArrowController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAEwDYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T07:15:17.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scritps\\PlayerController.cs",
+              "ToolTip": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scritps\\PlayerController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T06:36:59.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TargetController.cs",
+              "DocumentMoniker": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\TargetController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scritps\\TargetController.cs",
+              "ToolTip": "D:\\ProjectUnity\\Archer Shooting\\Assets\\Scritps\\TargetController.cs",
+              "RelativeToolTip": "Assets\\Scritps\\TargetController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA5wCcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T03:31:39.575Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
